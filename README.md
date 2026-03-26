@@ -1,42 +1,46 @@
 # PRODIGY_WD_01
-Prodigy Infotech Web Development Internship Task 1.
-⚓ Task 1: Responsive Interactive Landing Page
-This project is a high-performance, responsive landing page featuring a dynamic navigation system. It focuses on clean UI/UX principles, utilizing modern CSS techniques and vanilla JavaScript for enhanced user interaction.
+  Prodigy Infotech Web Development Internship Task 1.
 
-🌟 Key Features
-Smart Sticky Navbar: The navigation bar remains fixed at the top for easy access and changes its background color (.scrolled) dynamically as the user scrolls.
+## ⚓ Task 1: Responsive Interactive Landing Page
+  This project is a high-performance, responsive landing page featuring a dynamic navigation system. It focuses on clean UI/UX principles, utilizing modern CSS techniques and vanilla JavaScript for enhanced user interaction.
 
-Smooth Scroll Navigation: Integrated scroll-behavior: smooth to ensure fluid transitions between sections (Home, About, Services, Contact).
+## 🌟 Key Features
+- Smart Sticky Navbar: The navigation bar remains fixed at the top for easy access and changes its background color (.scrolled) dynamically as the user scrolls.
 
-Dynamic CSS Architecture: Built using CSS Root Variables (custom properties) for easy branding and theme management.
+- Smooth Scroll Navigation: Integrated scroll-behavior: smooth to ensure fluid transitions between sections (Home, About, Services, Contact).
 
-Hero Section: A high-impact visual entrance featuring a modern linear gradient and centered typography.
+- Dynamic CSS Architecture: Built using CSS Root Variables (custom properties) for easy branding and theme management.
 
-🛠️ Technology Stack
-Frontend: HTML5, CSS3 (Flexbox & Root Variables).
+## Hero Section: 
+  A high-impact visual entrance featuring a modern linear gradient and centered typography.
 
-Interactivity: Vanilla JavaScript (Window Scroll Event Listeners).
+## 🛠️ Technology Stack
+- Frontend: HTML5, CSS3 (Flexbox & Root Variables).
 
-Design Philosophy: Clean, professional, and content-focused.
+- Interactivity: Vanilla JavaScript (Window Scroll Event Listeners).
 
+- Design Philosophy: Clean, professional, and content-focused.
+
+```
 📂 Project Structure
 Plaintext
-├── index.html     # Semantic HTML5 layout
+├── Task1.html     # Semantic HTML5 layout
 ├── Task1.css      # Custom styling & dynamic variables
 ├── Task1.js       # Scroll logic & class manipulation
 └── README.md      # Documentation
+```
 🧠 Technical Highlights
-DOM Manipulation: Used JavaScript to monitor the window.scrollY position, toggling CSS classes to provide visual feedback to the user.
+- DOM Manipulation: Used JavaScript to monitor the window.scrollY position, toggling CSS classes to provide visual feedback to the user.
 
-Flexbox Layout: Leveraged display: flex for the navbar and hero sections to ensure perfect alignment and spacing.
+- Flexbox Layout: Leveraged display: flex for the navbar and hero sections to ensure perfect alignment and spacing.
 
-Responsive Padding: Implemented scroll-padding-top to ensure that fixed headers do not overlap section content when jumping to links.
+- Responsive Padding: Implemented scroll-padding-top to ensure that fixed headers do not overlap section content when jumping to links.
 
-🚀 How to Run
-Clone the repository.
+## 🚀 How to Run
+- Clone the repository.
 
-Open index.html in your preferred web browser.
+- Open index.html in your preferred web browser.
 
-Scroll down to observe the navbar's background transition and smooth-scroll effects.
+- Scroll down to observe the navbar's background transition and smooth-scroll effects.
 
-Developed as part of the Prodigy InfoTech Web Development Internship
+### Developed as part of the Prodigy InfoTech Web Development Internship
